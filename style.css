@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+
+body {
+    background: #EA2027;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.btn {
+    padding: 15px 60px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 500;
+    background: none;
+    outline: none;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
